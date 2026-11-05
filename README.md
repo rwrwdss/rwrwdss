@@ -30,6 +30,12 @@ i'm amir, 18, from kazan, tatarstan. i build backend services in go and have 2.5
 - [ai-engineering-skills](https://github.com/rwrwdss/AI-Engineering-Skills) — practical workflows for code review, testing, and security checks
 
 
+## certificates
+
+
+- [yandex lyceum: go-1, step by step](certificates/yandex-lyceum-go-1-step-by-step.pdf) — self-paced course certificate, 2026
+
+
 ## skills
 
 
