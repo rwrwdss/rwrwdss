@@ -33,7 +33,7 @@ i'm amir, 18, from kazan, tatarstan. i build backend services in go and have 2.5
 ## skills
 
 
-go, rest apis, postgresql, redis, docker, rabbitmq, kafka, linux, git, github actions, nginx, jwt, s3, yandex cloud, telegram bot api, ci/cd
+go, go test (unit and integration tests), rest apis, net/http, grpc, protobuf, onnx runtime go bindings, postgresql, redis, docker, rabbitmq, kafka, linux, git, github actions, nginx, jwt, s3, yandex cloud, telegram bot api, ci/cd
 
 
 ## languages
